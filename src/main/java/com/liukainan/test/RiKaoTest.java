@@ -7,6 +7,9 @@ public class RiKaoTest {
 		//输出HelloWord
 		System.out.println("Hello Word");
 		
+		//第二次输出
+		System.out.println("更新一下内容");
+		
 	}
 	
 }
